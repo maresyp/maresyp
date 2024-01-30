@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @maresyp
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+# 👋 Hi, I’m @maresyp
+
+## Languages and tools i use: 
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,c,rust,git,bash,java,mongodb,postgres,vscode,docker,js,html,css,)](https://skillicons.dev)
 
 <!---
 maresyp/maresyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
